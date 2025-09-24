@@ -77,8 +77,8 @@ Error: Division by zero is not allowed!
 
 ## 🏗️ Project Structure
 
-Calculator-CLI-App/
-│
+Calculator-CLI-App/                                                                                                                                                                                                 
+│                                                                                                                                                                                                                   
 ├── calculator.py # Main application file                                                                                                                                                                           
 ├── README.md # Project documentation                                                                                                                                                                               
 ├── menu-interface.png # main-interface.png screenshot                                                                                                                                                
