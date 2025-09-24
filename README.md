@@ -79,13 +79,10 @@ Error: Division by zero is not allowed!
 
 Calculator-CLI-App/
 │
-├── calculator.py # Main application file
-├── README.md # Project documentation
-├── screenshots/ # Application screenshots
-│ ├── menu-interface.png
-│ ├── calculation-demo.png
-│ └── error-handling.png
-└── docs/
+├── calculator.py # Main application file                                                                                                                                                                           
+├── README.md # Project documentation                                                                                                                                                                               
+├── menu-interface.png # main-interface.png screenshot                                                                                                                                                
+├── calculation-demo.png # calculation-demo.png screenshot                                                                                                                                                          ├── error-handling.png # error-handling.png screenshot                                                                                                                                                              
 └── task1-submission.pdf # Complete documentation
 
 
